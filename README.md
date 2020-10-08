@@ -1,1 +1,1 @@
-# Tic Tac Toe AI with Minimax Algorithm implementatin in Python
+# Tic Tac Toe AI with Minimax Algorithm implementation in Python
